@@ -13,6 +13,9 @@ Esse projeto visa aplicar os conceitos de grafos2 ministrados em sala de aula, f
 ## Video de Apresentação
 [Apresentação](https://youtu.be/jrdyRPqyZ3U)
 
+## Repositorio antigo criado no repositorio errado 
+[Repositorio antigo](https://github.com/projeto-de-algoritmos/grafos2_Metro_SP)
+
 ## Screenshots
 ![screenshot]('../../src/assets/MapasSPGrafos2.jpeg)
 
